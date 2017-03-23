@@ -8,7 +8,7 @@ public class DonHang {
     private String ten;
     private double giaTien;
     private String trangThai;
-    private boolean huy;
+    private boolean huy; //a>kien
 
     public DonHang(String ten, double giaTien, String trangThai, boolean huy) {
         this.ten = ten;
